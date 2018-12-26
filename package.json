@@ -1,5 +1,5 @@
 {
-    "name": "@healthcatalyst/cashmere-docs",
+    "name": "@wcf-insurance/cashmere-docs",
     "version": "2.1.0",
     "license": "Apache-2.0",
     "description": "Cashmere documentation website",
@@ -95,7 +95,7 @@
         "karma-jasmine-html-reporter": "^0.2.2",
         "lint-staged": "^7.1.2",
         "ng-packagr": "~4.1.1",
-        "node-sass": "4.8.3",
+        "node-sass": "4.9.0",
         "path": "^0.12.7",
         "prettier": "^1.14.3",
         "protractor": "~5.3.1",

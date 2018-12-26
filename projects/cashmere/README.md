@@ -16,4 +16,4 @@ An Angular component library that makes any task feel luxurious.
 
 ## Installing
 
-Run `npm i --save @healthcatalyst/cashmere`.
+Run `npm i --save @wcf-insurance/cashmere`.
